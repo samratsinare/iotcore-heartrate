@@ -1,8 +1,8 @@
-﻿{"sensorID": "PS1.Pressure", "heartrate": 160.67349166666665, "uniqueID": "c91f15c4-6c34-42cf-8e6c-dd9f48697ab7-pressuresensor", "timecollected": "2018-07-07 19:38:07"}
+{"sensorID": "PS1.Pressure", "heartrate": 160.67349166666665, "uniqueID": "c91f15c4-6c34-42cf-8e6c-dd9f48697ab7-pressuresensor", "timecollected": "2018-07-07 19:38:07"}
 {"sensorID": "PS2.Pressure", "heartrate": 109.46691350000002, "uniqueID": "6d5c7854-f351-4e2c-8921-5d433e16ab94-pressuresensor", "timecollected": "2018-07-07 19:37:27"}
 {"sensorID": "PS3.Pressure", "heartrate":1.9914753333333333, "uniqueID": "1a61116f-85c9-40b6-a806-eae22ac9a623-pressuresensor", "timecollected": "2018-07-07 19:37:50"}
 {"sensorID": "PS4.Pressure", "heartrate": 0, "uniqueID": "cccdecf6-24a0-46c3-a95d-e63d11ea10b4-pressuresensor", "timecollected": "2018-07-07 19:38:16"}
-{"sensorID": "PS5.Pressure", ""heartrate": 9.842169499999999, "uniqueID": "ed07263d-2260-4bb2-886e-3a0b4bbbd0c5-pressuresensor", "timecollected": "2018-07-07 19:38:25"}
+{"sensorID": "PS5.Pressure", "heartrate": 9.842169499999999, "uniqueID": "ed07263d-2260-4bb2-886e-3a0b4bbbd0c5-pressuresensor", "timecollected": "2018-07-07 19:38:25"}
 {"sensorID": "PS6.Pressure", "heartrate": 9.7280975, "uniqueID": "60e011c5-f1e6-476d-94aa-43f67937b520-pressuresensor", "timecollected": "2018-07-07 19:38:33"}
 {"sensorID": "ESP1.MotorPower", "heartrate": 2538.929166666667, "uniqueID": "052c5047-9bd1-4266-9929-e56410817e44-MotorPower", "timecollected": "2018-07-07 19:37:41"}
 {"sensorID": "FS1.VolumeFlow", "heartrate": 6.709815, "uniqueID": "5c956a53-c54a-4afd-aa72-4700fe012a25-VolumeFlow", "timecollected": "2018-07-07 19:37:11"}
